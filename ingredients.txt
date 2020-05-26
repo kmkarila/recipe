@@ -1,2 +1,5 @@
 *mushrooms
 *onions
+*garlic
+*cream
+*sugar

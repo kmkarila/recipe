@@ -1,3 +1,5 @@
 *start
 *stop
+*add salt
+*add milk
 *enjoy!
